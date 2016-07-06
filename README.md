@@ -1,4 +1,3 @@
 # TempShit
 A Simple Repository for Testing
-An addition by Lebron!!!!!!!!
-!!!!!
+An addition by Lebron James
